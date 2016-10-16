@@ -14,9 +14,10 @@
 Initial relaease.
 
 **Implementation:**
+
+front end
 - Index.jsp
 - helper.js
-- menu image
 - style.css
 
 servlets
